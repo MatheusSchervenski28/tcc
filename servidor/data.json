@@ -1,0 +1,19 @@
+[
+  {
+    "nome": "Matheus",
+    "idade": 24
+  },
+  {
+    "nome": "Matheus",
+    "idade": 24
+  },
+  {
+    "nome": "Test User",
+    "Email": "test@example.com",
+    "Senha": "password123",
+    "CpfCnpj": "12345678901",
+    "Telefone": "11987654321",
+    "Endereco": "Rua Teste, 123",
+    "Tipo": "Cidadão"
+  }
+]
